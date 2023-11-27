@@ -58,7 +58,7 @@ class AboutMe(Developer):
 
 ## ⭐ **GitHub stats** 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielTrindade31&show_icons=true)
 
 ### Contact:
   <div> 
