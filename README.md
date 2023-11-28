@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile+Enjoy+IT)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile,+Enjoy+!](https://git.io/typing-svg)
 
    
   ### Hello Everyone 👋
@@ -75,7 +75,7 @@ class AboutMe(Developer):
   <a href="mailto:gtrindade2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 </div> 
 
-### ### Work Experience
+### Work Experience
 In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="SenaiCimatec" src="https://evento.connectedsmartcities.com.br/wp-content/uploads/2018/02/csc18_logo_senai_cimatec_300x184.jpg"/>](https://www.senaicimatec.com.br)
