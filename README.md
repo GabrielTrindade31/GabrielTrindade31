@@ -13,7 +13,7 @@ class AboutMe(Developer):
     def __init__(self):
         super().__init__()
         self.name = 'Gabriel Trindade Santana'
-        self.area = 'Software Developer/Game Developer'
+        self.area = 'Game Developer/Software Developer'
         self.work = 'Software Developer at SENAI Cimatec '
         self.location = 'Salvador, BA'
 ```
