@@ -91,7 +91,7 @@ Featured Projects: [RUBA IHM Project](https://github.com/Automacao-CIMATEC/Roben
 **Game Developer** \
 [**GamePlan**](https://gameplan.games) • Full-time \
 Languages & Technologies: `C++`, `C#`, `Unity`, `Unreal Engine`, `Android`, `iOS` \
-Featured Projects: Development and maintenance of mobile and cross-platform games (GameHouse titles), SDK integration, build automation and optimization for multiple platforms.
+Featured Projects: Development and maintenance of mobile and cross-platform games, SDK integration, build automation and optimization for multiple platforms.
 <br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/gabriel-trindade-santana-8834b123b/) for a more detailed description of my work experience, education, and certifications.
