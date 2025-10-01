@@ -86,4 +86,12 @@ Languages & Technologies: `Python`, `HTML5`, `JavaScript`, `CSS3`, `LABVIEW`, `R
 Featured Projects: [RUBA IHM Project](https://github.com/Automacao-CIMATEC/Roben_LabVIEW), [DS4 Project Pair](https://github.com/GabrielTrindade31/DsPair)
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="GamePlan" src="https://avatars.githubusercontent.com/u/148484871?s=200&v=4"/>](https://www.gamehouse.com)
+
+**Game Developer** \
+[**GamePlan (GameHouse Studio)**](https://www.gamehouse.com) • Full-time \
+Languages & Technologies: `C++`, `C#`, `Unity`, `Unreal Engine`, `Android`, `iOS` \
+Featured Projects: Development and maintenance of mobile and cross-platform games (GameHouse titles), SDK integration, build automation and optimization for multiple platforms.
+<br/>
+
 Please find me on [LinkedIn](https://www.linkedin.com/in/gabriel-trindade-santana-8834b123b/) for a more detailed description of my work experience, education, and certifications.
