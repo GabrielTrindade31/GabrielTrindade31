@@ -86,7 +86,7 @@ Languages & Technologies: `Python`, `HTML5`, `JavaScript`, `CSS3`, `LABVIEW`, `R
 Featured Projects: [RUBA IHM Project](https://github.com/Automacao-CIMATEC/Roben_LabVIEW), [DS4 Project Pair](https://github.com/GabrielTrindade31/DsPair)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="GamePlan" src="https://avatars.githubusercontent.com/u/148484871?s=200&v=4"/>](https://gameplan.games)
+[<img align="left" height="94px" width="94px" alt="GamePlan" src="https://gameplan.games/wp-content/uploads/2025/06/Gameplan-Logo-White.webp"/>](https://gameplan.games)
 
 **Game Developer** \
 [**GamePlan**](https://gameplan.games) • Full-time \
